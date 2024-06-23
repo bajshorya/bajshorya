@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shorya Baj</h1>
-<h3 align="center">A passionate frontend developer from Jaipur, India</h3>
 
-<p align="left"> <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="bajshorya" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,JavaScript & Java**
+<p>Web3 / Fullstack</p>
 
 - 📫 How to reach me **jain.shorya11@gmail.com**
 
