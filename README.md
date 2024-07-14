@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shorya Baj</h1>
-<h3 align="center">Web#/FullStack</h3>
+<h3 align="center">Web3/FullStack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajshorya&label=Profile%20views&color=0e75b6&style=flat" alt="bajshorya" /> </p>
 
